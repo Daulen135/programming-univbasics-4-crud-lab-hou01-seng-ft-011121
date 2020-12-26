@@ -9,10 +9,10 @@ end
 def add_element_to_end_of_array(array, element)
 x=[4,9,2]
  x.push(7)
- p x
+ 
 end
+add_element_to_end_of_array(x,7)
 
-add_element_to_end_of_array(digits,5)
 
 
 def add_element_to_start_of_array(array, element)
