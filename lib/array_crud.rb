@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- digits=[4,9,2]
-  digits<<(5)
+ [4,9,2]
+  <<(5)
 end
 add_element_to_end_of_array(digits,5)
 
