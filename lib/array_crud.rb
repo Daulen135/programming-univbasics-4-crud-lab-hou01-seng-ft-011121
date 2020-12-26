@@ -30,7 +30,8 @@ go=x.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+   x=["wow",4,9,2,"arrays!"]
+
 end
 
 def retrieve_first_element_from_array(array)
