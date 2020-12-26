@@ -24,13 +24,13 @@ go=x.pop
 end
 
 def remove_element_from_start_of_array(array)
- x=["am",4,9,2,"arrays!"]
+ x=["wow",4,9,2,"arrays!"]
 go=x.shift 
   
 end
 
 def retrieve_element_from_index(array, index_number)
-   x=["wow",4,9,2,"arrays!"]
+   x=["am",4,9,2,"arrays!"]
 x[0]
 end
 
