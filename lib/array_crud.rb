@@ -24,7 +24,7 @@ go=x.pop
 end
 
 def remove_element_from_start_of_array(array)
- x=[4,9,2,"arrays!"]
+ x=["wow",4,9,2,"arrays!"]
 go=x.shift 
   
 end
